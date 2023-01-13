@@ -1,0 +1,9 @@
+button {
+  background-color: #151615; /* green background */
+  color: white; /* white text */
+  padding: 14px 20px; /* give some space around the text */
+  margin: 8px 0; /* add some margin */
+  border: none; /* remove the border */
+  cursor: pointer; /* change cursor to a hand when hovering */
+  width: 100%; /* make the button full-width */
+}
